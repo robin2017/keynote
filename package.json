@@ -1,0 +1,20 @@
+{
+  "name": "keynote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git add . && git commit -m \"auto save\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robin2017/keynote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robin2017/keynote/issues"
+  },
+  "homepage": "https://github.com/robin2017/keynote#readme"
+}
